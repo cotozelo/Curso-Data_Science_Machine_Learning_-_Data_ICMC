@@ -1,4 +1,4 @@
-# Curso Data Science e Machine Learning
+# Data Science e Machine Learning
 
 Esse repositório contém minha experiencia durante o curso *Curso Data Science e Machine Learning* oferecido no Youtube pelo canal <a href="">Data ICMC</a>.
 
