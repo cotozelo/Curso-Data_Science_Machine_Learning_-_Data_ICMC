@@ -10,6 +10,8 @@ ___
 
 # Métricas
 
+* **Matriz de confusão** é uma tabela que confrontra os valores reais com os preditos. <a href="https://pt.wikipedia.org/wiki/Matriz_de_confus%C3%A3o#:~:text=No%20campo%20do%20Aprendizado%20de,de%20um%20algoritmo%20de%20classifica%C3%A7%C3%A3o%20.">[ref.]</a>
+
 * *Precision* é intuitivamente a capacidade do classificador de não rotular como **positiva** uma amostra **negativa**
   
   Precision = tp / (tp + fp)
