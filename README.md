@@ -22,4 +22,4 @@ Esse repositório contém minha experiencia durante o curso *Curso Data Science 
   * Áudios
 
 ## Aulas
-* <a href="https://github.com/cotozelo/Data_Science_Machine_Learning_-_Data_ICMC/blob/main/Notebooks/Aula_01/Aula_01_Python_Numpy.ipynb">Aula 01 - Revisão Python e Numpy</a>
+* <a href="https://github.com/cotozelo/Data_Science_Machine_Learning_-_Data_ICMC/blob/main/Notebooks/Aulas/Aula_00_Python_Numpy.ipynb">Aula 00 - Revisão Python e Numpy</a>
