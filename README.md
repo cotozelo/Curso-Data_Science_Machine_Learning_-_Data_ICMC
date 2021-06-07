@@ -22,6 +22,9 @@ Esse repositório contém minha experiencia durante o curso *Curso Data Science 
   * Áudios
 
 ## Aulas
-* <a href="https://github.com/cotozelo/Data_Science_Machine_Learning_-_Data_ICMC/blob/main/Notebooks/Aulas/Aula_00_Python_Numpy.ipynb">Aula 00 - Revisão Python e Numpy</a>
-* <a href="https://github.com/cotozelo/Data_Science_Machine_Learning_-_Data_ICMC/blob/main/Notebooks/Aulas/Aula_01_Classificacao_KNN.ipynb">Aula 01 - KNN</a>
-* <a href="https://github.com/cotozelo/Data_Science_Machine_Learning_-_Data_ICMC/blob/main/Notebooks/Aulas/Aula_01_Classificacao_DBSCAN.ipynb">Aula 01 - DBSCAN</a>
+### Revisão
+* <a href="">Python e Numpy</a>
+### Classificação
+* <a href="https://github.com/cotozelo/Data_Science_Machine_Learning_-_Data_ICMC/blob/main/Notebooks/Classificacao_KNN.ipynb">KNN</a>
+* <a href="https://github.com/cotozelo/Data_Science_Machine_Learning_-_Data_ICMC/blob/main/Notebooks/Classificacao_DBSCAN.ipynb">DBSCAN</a>
+* <a href="https://github.com/cotozelo/Data_Science_Machine_Learning_-_Data_ICMC/blob/main/Notebooks/Classificacao_Naive_Bayes.ipynb">Naive Bayes</a>
