@@ -23,7 +23,7 @@ Esse repositório contém minha experiencia durante o curso *Curso Data Science 
 
 ## Aulas
 ### Revisão
-* <a href="">Python e Numpy</a>
+* <a href="https://github.com/cotozelo/Data_Science_Machine_Learning_-_Data_ICMC/blob/main/Notebooks/Python_Numpy.ipynb">Python e Numpy</a>
 ### Classificação
 * <a href="https://github.com/cotozelo/Data_Science_Machine_Learning_-_Data_ICMC/blob/main/Notebooks/Classificacao_KNN.ipynb">KNN</a>
 * <a href="https://github.com/cotozelo/Data_Science_Machine_Learning_-_Data_ICMC/blob/main/Notebooks/Classificacao_DBSCAN.ipynb">DBSCAN</a>
